@@ -26,7 +26,8 @@ El Observatorio de Movilidad y Seguridad Vial (OMSV) nos ha encomendado la tarea
 ## Implementación del Proyecto
 El sistema está implementado en las herramientas de **Python**, **MySQL** y **PowerBI**.
 
-**Extracción de datos:** Se extrajo los datos de un (1) archivo xlss descargado de la web de [buenosaires.gob](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales). Se guardó en formato CSV para su futuro procesmiento y análisis. 
+**Extracción de datos:** Se extrajo los datos de un (1) archivo xlss descargado de la web de [buenosaires.gob](https://data.buenosaires.gob.ar/dataset/victimas-siniestros-viales). Se guardó en formato CSV para su futuro procesmiento y análisis.
+ 
 * [Web](https://data.buenosaires.gob.ar/dataset/comunas)
 * [Archivo](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/0-DATA/homicidios.xlsx)
 
@@ -49,13 +50,19 @@ El sistema está implementado en las herramientas de **Python**, **MySQL** y **P
 ![imagen1](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/MySQL.png)
 
 **POWERBI:** Por útlimo se procedió a absorber la Base deDatos de MySQL mediante la conexión PowerBI-MySQL.
-![image2](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL1.png) 
-![image3](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL2.png) 
-![image4](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL3.png) 
+
+![image2](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL1.png)
+
+![image3](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL2.png)
+
+![image4](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL3.png)
+
 ![image5](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL4.png) 
 
-Se Concluye con la representación mediante un DashBoard, en donde representamos los KPIs e información de nuestros datos analizados en el EDA y representados en este programa de visualizacion. Utilizamos los links-imagen de cada Comuna para que se muestre al interactuar con nuestro DashBoard. 
+Se Concluye con la representación mediante un DashBoard, en donde representamos los KPIs e información de nuestros datos analizados en el EDA y representados en este programa de visualizacion. Utilizamos los links-imagen de cada Comuna para que se muestre al interactuar con nuestro DashBoard.
+
 ![image6](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/d1.png)
+
 ![image7](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/d2.png)
 
 
