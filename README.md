@@ -35,7 +35,7 @@ El sistema está implementado en las herramientas de **Python**, **MySQL** y **P
 
 **WEBSCRAPING:** Se procedió con el proceso de tres (3) WebScraping ya que teniamos la columna [comunidades](https://buenosaires.gob.ar/jefaturadegabinete/atencion-ciudadana-y-gestion-comunal/gestion-comunal/comunas) y no sabiamos sus nombres y links de fotografias. Tambien se realizó mediante el uso de las coordenadas el scrapeo de la zona donde se produjo el siniestro vial, obteniedno los nombres de los [barrios](https://datosabiertos-usig-apis.buenosaires.gob.ar/datos_utiles) y el tercero scrapeo en [Wikipedia](https://es.wikipedia.org/wiki/Buenos_Aires#:~:text=3%20121%20707%E2%80%8B%20hab.) para obtener la poblacion de Buenos Aires Anualmente.
 
-![image](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/WS%20comunas.png)
+![image](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/8-FOTOS/WS%20comunas.png)
 
 **EDA:** Se procedió con el proceso de análisis de los datos. Se analiza a detalle cada columna y la relacion entre ellas para obtener la máxima información e interpretar lo que los datos nos quieren contar, ademas se analizó valores atípicos, estadísticos y de correlacion. 
 
@@ -47,23 +47,23 @@ El sistema está implementado en las herramientas de **Python**, **MySQL** y **P
     
     * Ojo: las tablas que seran leidad por MySQL tienen que estar en la dirección similar a la siguiente: C:\\ProgramData\\MySQL\\MySQL Server 8.0\\Uploads\\Datos\\resultadokpi2.csv 
 
-![imagen1](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/MySQL.png)
+![imagen1](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/8-FOTOS/MySQL.png)
 
 **POWERBI:** Por útlimo se procedió a absorber la Base deDatos de MySQL mediante la conexión PowerBI-MySQL.
 
-![image2](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL1.png)
+![image2](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/8-FOTOS/ConexionPowebiMySQL1.png)
 
-![image3](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL2.png)
+![image3](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/8-FOTOS/ConexionPowebiMySQL2.png)
 
-![image4](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL3.png)
+![image4](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/8-FOTOS/ConexionPowebiMySQL3.png)
 
-![image5](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/ConexionPowebiMySQL4.png) 
+![image5](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/8-FOTOS/ConexionPowebiMySQL4.png) 
 
 Se Concluye con la representación mediante un DashBoard, en donde representamos los KPIs e información de nuestros datos analizados en el EDA y representados en este programa de visualizacion. Utilizamos los links-imagen de cada Comuna para que se muestre al interactuar con nuestro DashBoard.
 
-![image6](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/d1.png)
+![image6](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/8-FOTOS/d1.png)
 
-![image7](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/FOTOS/d2.png)
+![image7](https://github.com/MAYKJOEL/Dashboard-Interactivo-Siniestros-Viales-en-la-Ciudad-de-Buenos-Aires/blob/main/8-FOTOS/d2.png)
 
 
 ### Análisis y Conclusiones Destacadas
